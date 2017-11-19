@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Optim2GaussianSmooth.dir/Optim2GaussianSmooth_generated_Optim2GaussianSmooth.cu.o  -o Optim2GaussianSmooth /usr/local/cuda-8.0/lib64/libcudart_static.a -lpthread -ldl -lrt 

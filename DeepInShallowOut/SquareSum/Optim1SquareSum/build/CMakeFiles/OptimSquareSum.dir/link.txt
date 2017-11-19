@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/OptimSquareSum.dir/OptimSquareSum_generated_OptimSquareSum.cu.o  -o OptimSquareSum /usr/local/cuda-8.0/lib64/libcudart_static.a -lpthread -ldl -lrt 

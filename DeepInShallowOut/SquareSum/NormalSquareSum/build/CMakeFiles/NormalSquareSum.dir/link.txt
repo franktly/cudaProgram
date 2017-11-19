@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/NormalSquareSum.dir/NormalSquareSum_generated_NormalSquareSum.cu.o  -o NormalSquareSum /usr/local/cuda-8.0/lib64/libcudart_static.a -lpthread -ldl -lrt 

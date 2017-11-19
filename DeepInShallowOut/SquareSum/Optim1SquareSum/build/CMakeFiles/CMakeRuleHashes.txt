@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+7c1bd199f40bf55f4e3975462eb1d4b3 CMakeFiles/OptimSquareSum.dir/OptimSquareSum_generated_OptimSquareSum.cu.o

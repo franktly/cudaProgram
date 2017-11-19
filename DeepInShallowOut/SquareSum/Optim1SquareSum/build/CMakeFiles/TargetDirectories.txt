@@ -1,0 +1,3 @@
+/home/tly/myProgram/cudaProgram/DeepInShallowOut/SquareSum/Optim1SquareSum/build/CMakeFiles/edit_cache.dir
+/home/tly/myProgram/cudaProgram/DeepInShallowOut/SquareSum/Optim1SquareSum/build/CMakeFiles/rebuild_cache.dir
+/home/tly/myProgram/cudaProgram/DeepInShallowOut/SquareSum/Optim1SquareSum/build/CMakeFiles/OptimSquareSum.dir
